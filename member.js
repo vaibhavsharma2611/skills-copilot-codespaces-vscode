@@ -1,0 +1,31 @@
+function skillsMember() {
+    var member = document.getElementById('member');
+    var memberValue = member.options[member.selectedIndex].value;
+    var memberText = member.options[member.selectedIndex].text;
+    var memberSkills = document.getElementById('memberSkills');
+    var memberSkillsValue = memberSkills.options[memberSkills.selectedIndex].value;
+    var memberSkillsText = memberSkills.options[memberSkills.selectedIndex].text;
+    var memberSkillsArray = [];
+    var memberSkillsArrayText = [];
+    var memberSkillsArrayValue = [];
+    var memberSkillsArrayTextValue = [];
+    var memberSkillsArrayTextValueString = [];
+    var memberSkillsArrayTextValueStringJoin = [];
+    var memberSkillsArrayTextValueStringJoinSplit = [];
+    var memberSkillsArrayTextValueStringJoinSplitLength = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumber = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSum = 0;
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumString = '';
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplit = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLength = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumber = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSum = 0;
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumString = '';
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplit = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLength = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLengthNumber = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLengthNumberSum = 0;
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLengthNumberSumString = '';
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLengthNumberSumStringSplit = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLength = [];
+    var memberSkillsArrayTextValueStringJoinSplitLengthNumberSumStringSplitLengthNumberSumStringSplitLength
